@@ -3,7 +3,6 @@
 ![Build Status](https://github.com/zkrRan/jpacman/actions/workflows/myworkflow.yml/badge.svg) 
 ![Coverage](.github/badges/jacoco.svg)
 ![Branches](.github/badges/branches.svg)
-![image](https://github.com/user-attachments/assets/92cf9bab-7ee4-4d52-8c7e-43c0dc1ef7e4)
 
 
 ## About
